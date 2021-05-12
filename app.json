@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "ExpoTest",
+    "name": "ExpoTest(Pubpoints)",
     "slug": "ExpoTest",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -12,6 +12,7 @@
     },
     "updates": {
       "fallbackToCacheTimeout": 0
+      
     },
     "assetBundlePatterns": [
       "**/*"
@@ -27,6 +28,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
